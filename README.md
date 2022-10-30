@@ -12,3 +12,6 @@
    ＊オリジナル鉱石ブロックの追加
 　　＊インベントリの透明化
   
+　＊元データ
+ ＊bedrock-samples(default画像)
+　 https://github.com/Mojang/bedrock-samples/releases
