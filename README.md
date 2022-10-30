@@ -14,6 +14,5 @@
   ＊元データ
   ＊bedrock-samples(default画像
    https://github.com/Mojang/bedrock-samples/releases
-  ＊インベントリのui変更ファイル　ありがとうございます
-　＊https://minecraft-mcworld.com/11165/
+   
 
