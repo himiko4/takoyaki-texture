@@ -15,4 +15,6 @@
   ＊bedrock-samples(default画像
    https://github.com/Mojang/bedrock-samples/releases
    
+   ＊インベントリ透明のテクスチャデータ　　ありがとうございます
+   ＊https://minecraft-mcworld.com/11165/
 
