@@ -19,7 +19,7 @@
    ＊インベントリ透明のテクスチャデータ　　ありがとうございます
    ＊https://minecraft-mcworld.com/11165/
 
-   *参考
+   *アイデア
    弓の弾き具合によって色が変わる　Kyat Infinite(java)
    https://www.youtube.com/watch?v=zBn_NLc2cYc&t=0s
    
