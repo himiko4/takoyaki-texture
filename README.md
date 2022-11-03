@@ -38,4 +38,5 @@
    弓の弾き具合によって色が変わる　Kyat Infinite(java)
    https://www.youtube.com/watch?v=zBn_NLc2cYc&t=0s
    
+   動画などは全然okです(できればここのurlよろしく)
    
