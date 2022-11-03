@@ -6,7 +6,6 @@
  　今追加されてるもの
   
   ＊防具の変更
-  https://media.discordapp.net/attachments/1034459845400723537/1036956817273667654/Minecraft_2022_11_01_19_45_57.png?width=539&height=423
   
   ＊鉱石ブロック、羊毛に枠の追加
   
