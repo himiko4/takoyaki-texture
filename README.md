@@ -1,15 +1,13 @@
- #takoyaki-pvptexture
- 
-動画などは全然okです(できればここのurlよろしく)
+  動画などは全然okです(できればここのurlよろしく)
 
-　#専用ディスコード
+　*専用ディスコード
 　https://discord.gg/zGbtfUYF
 
 　主が暇つぶしで作ってるテクスチャパックです
  
  　まぁ公開しないとは思うけど....(してた)
   
- #今追加されてるもの
+ *今追加されてるもの
   
   防具の変更
   
@@ -26,11 +24,11 @@
   バケツのテクスチャの変更
   
   
-  #今後作りたいもの
+  *今後作りたいもの
   
   ブロックのテクスチャ変更
   
-  #元データ
+  *元データ
   
   bedrock-samples(default画像
   https://github.com/Mojang/bedrock-samples/releases
@@ -38,7 +36,7 @@
    インベントリ透明のテクスチャデータ　　ありがとうございます
    https://minecraft-mcworld.com/11165/
 
-   #アイデア
+   *アイデア
    
    弓の弾き具合によって色が変わる　Kyat Infinite(java)
    https://www.youtube.com/watch?v=zBn_NLc2cYc&t=0s
