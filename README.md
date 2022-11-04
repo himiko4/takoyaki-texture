@@ -1,5 +1,8 @@
 # takoyaki-pvptexture
 
+専用ディスコード
+https://discord.gg/zGbtfUYF
+
 　主が暇つぶしで作ってるテクスチャパックです
  　まぁ公開しないとは思うけど....
   
