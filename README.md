@@ -1,4 +1,6 @@
-# takoyaki-pvptexture
+ takoyaki-pvptexture
+ 
+動画などは全然okです(できればここのurlよろしく)
 
 　専用ディスコード
 　https://discord.gg/zGbtfUYF
@@ -43,5 +45,5 @@
    
    
    
-   動画などは全然okです(できればここのurlよろしく)
+
    
