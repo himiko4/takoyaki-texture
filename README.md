@@ -1,7 +1,8 @@
 このテクスチャの制作は終了した
   
   テクスチャは名前を変えて別で配布をしていきます
-  移動先　
+  
+  移動先　https://github.com/himiko4/TAKOpvptexture-special
 
   *元データ
   
